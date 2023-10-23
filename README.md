@@ -51,7 +51,7 @@ func main() {
 
 ### Learn more examples
 
-Learn and practice more examples, please read the [Test Case](https://github.com/0xcregis/cregis-sdk-go/blob/main/api_test.go) .
+Learn and practice more examples, please read the [Test Case](https://github.com/0xcregis/cregis-go-sdk/blob/main/api_test.go) .
 
 ## Documentation
 

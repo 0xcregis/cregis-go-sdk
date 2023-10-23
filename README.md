@@ -34,7 +34,7 @@ package main
 import (
 	"fmt"
 
-	sdk "github.com/0xcregis/cregis-sdk-go"
+	sdk "github.com/0xcregis/cregis-go-sdk"
 )
 
 func main() {

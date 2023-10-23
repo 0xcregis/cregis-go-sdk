@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/0xcregis/cregis-sdk-go/util"
+	"github.com/0xcregis/cregis-go-sdk/util"
 	"github.com/tidwall/gjson"
 )
 
